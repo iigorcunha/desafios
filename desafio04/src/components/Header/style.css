@@ -1,0 +1,17 @@
+#header {
+  background: #4a90e2;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: auto;
+  height: 40px;
+  align-items: center;
+  margin: 20px 0 20px 50px;
+}
+
+#header #profile {
+  margin: 20px 50px 20px 0;
+}

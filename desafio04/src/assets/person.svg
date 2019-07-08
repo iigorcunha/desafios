@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="31px" viewBox="0 0 33 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>person</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Facebook-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-941.000000, -25.000000)">
+            <g id="Header">
+                <g id="Login" transform="translate(858.000000, 25.000000)">
+                    <g id="person" transform="translate(83.000000, 0.000000)">
+                        <ellipse id="Oval" fill="#FFFFFF" cx="16.5" cy="15.5" rx="16.5" ry="15.5"></ellipse>
+                        <g transform="translate(5.000000, 3.000000)" fill="#3B5998">
+                            <path d="M14.1538462,14 L8.84615385,14 C3.96055798,14 0,17.5817221 0,22 L23,22 C23,19.8782682 22.0679972,17.8434368 20.4090215,16.3431458 C18.7500458,14.8428547 16.5,14 14.1538462,14 Z" id="Shape"></path>
+                            <circle id="Oval" cx="11.5" cy="6.5" r="6.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
